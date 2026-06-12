@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+ .product-img{
+  height: 200px;
+  width: 80%;
+  object-fit: contain;
+ }
+
+ .prodName{
+  color: rgb(0, 26, 255);
+ }
+
+ .prodDesc{
+  color: rgb(7, 63, 192);
+ }
+
+ .prodCost{
+  color: rgb(249, 8, 8);
+  font-weight: 700;
+ }
